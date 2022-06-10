@@ -1,0 +1,28 @@
+/* Brian Sedlar Login Form Week4 CSC-102 */
+
+body {
+    background-color: rgb(147, 70, 224);
+    background-image: linear-gradient(270deg, rgb(239, 196, 196), #2e7bd4);
+    /* I moved the body right and down a little */
+    padding-left: 30px;
+    
+    padding-bottom: 25px;
+
+    
+}
+
+h1 
+    /* I liked the text-shadow style, it gives domension to the font I adjusted everything */
+{
+    color: rgb(88, 4, 95);
+    text-shadow: .75px .75px 0 rgb(117, 244, 255), 0 0 4px #fff700, 0 0 4px #00d5ff;
+    font-size: 45px;
+}
+h2 
+{
+    color: bisque;
+}
+
+
+
+
